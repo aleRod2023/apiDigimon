@@ -1,0 +1,41 @@
+.navbar{
+    background: cornflowerblue;
+}
+
+.fondo{
+    width: 100%;
+    height: 100%;
+}
+
+.table{
+    width: 60%;
+    margin: auto;
+    background-color: lightgreen;
+}
+
+#nombre{
+    width: 33%;
+}
+
+#img2{
+    width: 33%;
+}
+
+#level{
+    width: 10%;
+}
+
+#card1{
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+    border: solid;
+    margin-top: 50px;
+}
+
+#caja2{
+    padding: 10px;
+    background-color: aquamarine;
+    display: none;
+    color: burlywood;
+}
