@@ -1,3 +1,5 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501, 
+    "git.path": "C:/Program Files/Git/git-bash.exe", 
+    "git.enabled": true
 }
